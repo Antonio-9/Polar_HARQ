@@ -1,6 +1,6 @@
 function u=pdecode(y,channel_string,channel_state,myfrozenlookup)
 % 
-%     Usage:
+%     Usage:111
 %        u=pdecode(y,channel_string,channel_state,myfrozenlookup)
 % 
 %  Where,
